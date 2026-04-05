@@ -1,0 +1,22 @@
+{
+  "name": "adonisjs-v7-agent-skill",
+  "version": "1.0.0",
+  "description": "Comprehensive AdonisJS v7 documentation agent skill for AI coding assistants",
+  "author": "Kamran Allah Yar",
+  "license": "MIT",
+  "homepage": "https://docs.adonisjs.com",
+  "repository": "https://github.com/KamranAllahYar/adonisjs-v7-agent-skill",
+  "keywords": [
+    "adonisjs",
+    "adonisjs-v7",
+    "agent-skill",
+    "claude-code",
+    "opencode",
+    "codex",
+    "nodejs",
+    "framework"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
